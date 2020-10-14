@@ -2,8 +2,6 @@ package expressions;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.lang.reflect.Field;
-
 import org.junit.jupiter.api.Test;
 
 abstract class Expression {
